@@ -1,0 +1,15 @@
+All in python (you can us pandas, numpy etc…)
+ 
+Write a script finding the following on the individuals stocks:
+Annual returns, volatility, upvol, down vol, sharpe, sortino, calmar
+Realized correlation matrix
+
+Analysis on the basket:
+What are the metrics on the equally weighted basket. What conclusions can you draw from this
+What methodology would you use for optimized portfolio constructions (weighting). Please describe and process 2 to 3 known methodologies.
+Say I wanted to run a portfolio of $25mio notional at 10% return volatility, can you tell me the notional on each indivs using each methodology.
+
+Derivatives pricing:
+Can you code an Black & Sholes option pricer for Calls and Puts
+Can you code a MC model in Black finding the same prices as analytical formulas above
+Can you code a European Digital options pricer using only vanillas Put/Calls
