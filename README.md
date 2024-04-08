@@ -1,10 +1,8 @@
-# Curiosity Global Exchange
-
-Curiosity Global Exchange aims to improve liquidity between traditional financial instruments (FICC) and cryptocurrencies. 
+# Derivatives Portfolio Assignment
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
@@ -24,20 +22,20 @@ A step by step series of examples that tell you how to get a development env run
 1. Clone the repository
 
 ```
-git clone git@github.com:mukeshcodeshere/cgx_code.git
+git clone git@github.com:mukeshcodeshere/portfolio_assignment01.git
 ```
 
 2. Navigate into the project directory
 
 ```
-cd cgx_code
+cd portfolio_assignment01
 ```
 
 3. Create and activate a virtual conda environment
 
 ```
 conda env create -f environment.yaml
-conda activate cgx_code
+conda activate keal
 ```
 
 4. Initialize the database with fake data (will become live data in future after API integration)
