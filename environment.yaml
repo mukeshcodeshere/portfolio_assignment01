@@ -16,3 +16,4 @@ dependencies:
   - pip:
   # For regular pip packages
     - yfinance==0.2.37
+    - scipy==1.13.0

@@ -38,17 +38,8 @@ conda env create -f environment.yaml
 conda activate keal
 ```
 
-4. Initialize the database with fake data (will become live data in future after API integration)
+4. Derivatives Notebook
 
 ``` 
-python db_init.py
+Run All - analysis.ipynb
 ```
-
-5. Run the Flask application
-
-```
-python run.py
-```
-
-The app will now be running at `http://127.0.0.1:5000` (MIGHT BE DIFFERENT, LOOK AT BASH OUTPUT)
-
